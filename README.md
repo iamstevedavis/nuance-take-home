@@ -1,0 +1,1 @@
+The app by default reads from the included file "goodInput" but can also take a command line parameter that is a file path. There is another file called badInput that is used as well but only in the tests. Both of these files are required for the tests to run. The app outputs its steps to the console.
